@@ -25,7 +25,7 @@
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="0" attributes="0">
               <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
-              <EmptySpace min="0" pref="180" max="32767" attributes="0"/>
+              <EmptySpace min="0" pref="430" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -54,16 +54,25 @@
       <Layout>
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
-              <Component id="buttonStok" alignment="0" max="32767" attributes="0"/>
-              <Component id="buttonPenjualan" alignment="0" max="32767" attributes="0"/>
-              <Component id="buttonKasir" alignment="0" max="32767" attributes="0"/>
-              <Component id="buttonHome" alignment="0" max="32767" attributes="0"/>
-              <Component id="buttonSupplier" alignment="0" max="32767" attributes="0"/>
-              <Component id="buttonCariBarang" alignment="0" max="32767" attributes="0"/>
               <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
-                  <Component id="jLabel1" min="-2" pref="110" max="-2" attributes="0"/>
-                  <EmptySpace pref="53" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" pref="110" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="buttonKasir" alignment="0" min="-2" pref="155" max="-2" attributes="0"/>
+                              <Component id="buttonHome" min="-2" pref="155" max="-2" attributes="0"/>
+                              <Component id="buttonPenjualan" alignment="0" min="-2" pref="155" max="-2" attributes="0"/>
+                              <Component id="buttonStok" alignment="0" min="-2" pref="155" max="-2" attributes="0"/>
+                              <Component id="buttonSupplier" alignment="0" min="-2" pref="155" max="-2" attributes="0"/>
+                              <Component id="buttonCariBarang" alignment="0" min="-2" pref="155" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="37" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -83,8 +92,8 @@
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
                   <Component id="buttonSupplier" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                  <Component id="buttonCariBarang" min="-2" pref="38" max="-2" attributes="0"/>
-                  <EmptySpace pref="222" max="32767" attributes="0"/>
+                  <Component id="buttonCariBarang" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="238" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
