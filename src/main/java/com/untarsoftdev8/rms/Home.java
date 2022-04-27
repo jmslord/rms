@@ -12,7 +12,7 @@ package com.untarsoftdev8.rms;
 public class Home extends javax.swing.JFrame {
 
     /**
-     * Creates new form Home
+     * Creates new form Home pertama
      */
     public Home() {
         initComponents();
